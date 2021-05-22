@@ -1,0 +1,9 @@
+C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\bin\Debug\CalculatorShkut.exe.config
+C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\bin\Debug\CalculatorShkut.exe
+C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\bin\Debug\CalculatorShkut.pdb
+C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.csprojAssemblyReference.cache
+C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.Form1.resources
+C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.Properties.Resources.resources
+C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.csproj.GenerateResource.cache
+C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.exe
+C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.pdb

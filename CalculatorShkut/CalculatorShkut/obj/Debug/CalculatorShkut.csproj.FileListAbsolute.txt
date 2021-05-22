@@ -7,3 +7,12 @@ C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\obj\Deb
 C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.csproj.GenerateResource.cache
 C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.exe
 C:\Users\Гавкошмыг\source\repos\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.pdb
+D:\Мои проекты\PracticeNAU\CalculatorShkut\CalculatorShkut\bin\Debug\CalculatorShkut.exe.config
+D:\Мои проекты\PracticeNAU\CalculatorShkut\CalculatorShkut\bin\Debug\CalculatorShkut.exe
+D:\Мои проекты\PracticeNAU\CalculatorShkut\CalculatorShkut\bin\Debug\CalculatorShkut.pdb
+D:\Мои проекты\PracticeNAU\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.csprojAssemblyReference.cache
+D:\Мои проекты\PracticeNAU\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.Form1.resources
+D:\Мои проекты\PracticeNAU\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.Properties.Resources.resources
+D:\Мои проекты\PracticeNAU\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.csproj.GenerateResource.cache
+D:\Мои проекты\PracticeNAU\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.exe
+D:\Мои проекты\PracticeNAU\CalculatorShkut\CalculatorShkut\obj\Debug\CalculatorShkut.pdb

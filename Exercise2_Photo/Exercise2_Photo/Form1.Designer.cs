@@ -138,7 +138,7 @@
             this.Controls.Add(this.radioButton2);
             this.Controls.Add(this.radioButton1);
             this.Name = "Form1";
-            this.Text = "           ";
+            this.Text = "Ціна за фото";
             this.ResumeLayout(false);
             this.PerformLayout();
 

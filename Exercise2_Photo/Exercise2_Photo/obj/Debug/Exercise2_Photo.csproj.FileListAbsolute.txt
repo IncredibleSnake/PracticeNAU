@@ -1,0 +1,9 @@
+D:\Мои проекты\PracticeNAU\Exercise2_Photo\Exercise2_Photo\obj\Debug\Exercise2_Photo.csprojAssemblyReference.cache
+D:\Мои проекты\PracticeNAU\Exercise2_Photo\Exercise2_Photo\obj\Debug\Exercise2_Photo.Form1.resources
+D:\Мои проекты\PracticeNAU\Exercise2_Photo\Exercise2_Photo\obj\Debug\Exercise2_Photo.Properties.Resources.resources
+D:\Мои проекты\PracticeNAU\Exercise2_Photo\Exercise2_Photo\obj\Debug\Exercise2_Photo.csproj.GenerateResource.cache
+D:\Мои проекты\PracticeNAU\Exercise2_Photo\Exercise2_Photo\bin\Debug\Exercise2_Photo.exe.config
+D:\Мои проекты\PracticeNAU\Exercise2_Photo\Exercise2_Photo\bin\Debug\Exercise2_Photo.exe
+D:\Мои проекты\PracticeNAU\Exercise2_Photo\Exercise2_Photo\bin\Debug\Exercise2_Photo.pdb
+D:\Мои проекты\PracticeNAU\Exercise2_Photo\Exercise2_Photo\obj\Debug\Exercise2_Photo.exe
+D:\Мои проекты\PracticeNAU\Exercise2_Photo\Exercise2_Photo\obj\Debug\Exercise2_Photo.pdb

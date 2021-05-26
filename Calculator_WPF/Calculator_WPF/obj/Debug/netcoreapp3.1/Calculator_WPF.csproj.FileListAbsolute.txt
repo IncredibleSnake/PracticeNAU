@@ -1,0 +1,17 @@
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\bin\Debug\netcoreapp3.1\Calculator_WPF.exe
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\bin\Debug\netcoreapp3.1\Calculator_WPF.deps.json
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\bin\Debug\netcoreapp3.1\Calculator_WPF.runtimeconfig.json
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\bin\Debug\netcoreapp3.1\Calculator_WPF.runtimeconfig.dev.json
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\bin\Debug\netcoreapp3.1\Calculator_WPF.dll
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\bin\Debug\netcoreapp3.1\Calculator_WPF.pdb
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\Calculator_WPF.csprojAssemblyReference.cache
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\Calculator_WPF_MarkupCompile.cache
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\Calculator_WPF_MarkupCompile.lref
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\Calculator_WPF.g.resources
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\Calculator_WPF.AssemblyInfoInputs.cache
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\Calculator_WPF.AssemblyInfo.cs
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\Calculator_WPF.dll
+D:\Мои проекты\PracticeNAU\Calculator_WPF\Calculator_WPF\obj\Debug\netcoreapp3.1\Calculator_WPF.pdb

@@ -1,0 +1,9 @@
+D:\Мои проекты\PracticeNAU\Exercise_4_Function\Exercise_4_Function\bin\Debug\Exercise_4_Function.exe.config
+D:\Мои проекты\PracticeNAU\Exercise_4_Function\Exercise_4_Function\bin\Debug\Exercise_4_Function.exe
+D:\Мои проекты\PracticeNAU\Exercise_4_Function\Exercise_4_Function\bin\Debug\Exercise_4_Function.pdb
+D:\Мои проекты\PracticeNAU\Exercise_4_Function\Exercise_4_Function\obj\Debug\Exercise_4_Function.csprojAssemblyReference.cache
+D:\Мои проекты\PracticeNAU\Exercise_4_Function\Exercise_4_Function\obj\Debug\Exercise_4_Function.Form1.resources
+D:\Мои проекты\PracticeNAU\Exercise_4_Function\Exercise_4_Function\obj\Debug\Exercise_4_Function.Properties.Resources.resources
+D:\Мои проекты\PracticeNAU\Exercise_4_Function\Exercise_4_Function\obj\Debug\Exercise_4_Function.csproj.GenerateResource.cache
+D:\Мои проекты\PracticeNAU\Exercise_4_Function\Exercise_4_Function\obj\Debug\Exercise_4_Function.exe
+D:\Мои проекты\PracticeNAU\Exercise_4_Function\Exercise_4_Function\obj\Debug\Exercise_4_Function.pdb

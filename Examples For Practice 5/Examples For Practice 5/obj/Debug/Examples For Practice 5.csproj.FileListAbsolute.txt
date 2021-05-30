@@ -1,0 +1,6 @@
+D:\Мои проекты\PracticeNAU\Examples For Practice 5\Examples For Practice 5\bin\Debug\Examples For Practice 5.exe.config
+D:\Мои проекты\PracticeNAU\Examples For Practice 5\Examples For Practice 5\bin\Debug\Examples For Practice 5.exe
+D:\Мои проекты\PracticeNAU\Examples For Practice 5\Examples For Practice 5\bin\Debug\Examples For Practice 5.pdb
+D:\Мои проекты\PracticeNAU\Examples For Practice 5\Examples For Practice 5\obj\Debug\Examples For Practice 5.csprojAssemblyReference.cache
+D:\Мои проекты\PracticeNAU\Examples For Practice 5\Examples For Practice 5\obj\Debug\Examples For Practice 5.exe
+D:\Мои проекты\PracticeNAU\Examples For Practice 5\Examples For Practice 5\obj\Debug\Examples For Practice 5.pdb

@@ -1,0 +1,6 @@
+D:\Мои проекты\PracticeNAU\Practice 8\Practice 8\bin\Debug\Practice 8.exe.config
+D:\Мои проекты\PracticeNAU\Practice 8\Practice 8\bin\Debug\Practice 8.exe
+D:\Мои проекты\PracticeNAU\Practice 8\Practice 8\bin\Debug\Practice 8.pdb
+D:\Мои проекты\PracticeNAU\Practice 8\Practice 8\obj\Debug\Practice 8.csprojAssemblyReference.cache
+D:\Мои проекты\PracticeNAU\Practice 8\Practice 8\obj\Debug\Practice 8.exe
+D:\Мои проекты\PracticeNAU\Practice 8\Practice 8\obj\Debug\Practice 8.pdb

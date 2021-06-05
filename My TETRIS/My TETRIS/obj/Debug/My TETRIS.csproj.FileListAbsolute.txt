@@ -1,0 +1,6 @@
+D:\Мои проекты\PracticeNAU\My TETRIS\My TETRIS\bin\Debug\My TETRIS.exe.config
+D:\Мои проекты\PracticeNAU\My TETRIS\My TETRIS\bin\Debug\My TETRIS.exe
+D:\Мои проекты\PracticeNAU\My TETRIS\My TETRIS\bin\Debug\My TETRIS.pdb
+D:\Мои проекты\PracticeNAU\My TETRIS\My TETRIS\obj\Debug\My TETRIS.csprojAssemblyReference.cache
+D:\Мои проекты\PracticeNAU\My TETRIS\My TETRIS\obj\Debug\My TETRIS.exe
+D:\Мои проекты\PracticeNAU\My TETRIS\My TETRIS\obj\Debug\My TETRIS.pdb

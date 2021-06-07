@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace My_TETRIS
 {
-    class Directions
+    enum Direction
     {
+        LEFT, RIGHT, DOWN
     }
 }

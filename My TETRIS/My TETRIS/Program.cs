@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace My_TETRIS
@@ -13,18 +14,27 @@ namespace My_TETRIS
             Console.SetWindowSize(40, 30);
             Console.SetBufferSize(40, 30);
 
+            FigureGenerator generator = new FigureGenerator(20, 0, '*');
+            Figure s = null;
 
-            Point p1 = new Point(2, 3, '*');
-            p1.Draw();
-
-            Square s1 = new Square(5, 6, '*');
-            s1.Draw();
-
-            Stick st1 = new Stick(10, 3, '$');
-            st1.Draw();
-
-            Console.ReadLine();
+            while (true)
+            {
+                FigureFall(s, generator);
+            }
         }
 
+        static void FigureFall(Figure fig, FigureGenerator generator)
+        {
+            fig = generator.GetNewFigure();
+            fig.Draw();
+
+            for (int i = 0; i < 15; i++)
+            {
+                fig.Hide();
+                fig.Move(Direction.DOWN);
+                fig.Draw();
+                Thread.Sleep(200);
+            }
+        }
     }
 }

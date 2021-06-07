@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace My_TETRIS
 {
-    class Square
+    class Square : Figure
     {
-        Point[] points = new Point[4];
 
         public Square(int x, int y, char sym)
         {
@@ -17,12 +16,6 @@ namespace My_TETRIS
             points[2] = new Point(x, y+1, sym);
             points[3] = new Point(x+1, y+1, sym);
         }
-        public void Draw()
-        {
-            foreach(Point p in points)
-            {
-                p.Draw();
-            }
-        }
+
     }
 }

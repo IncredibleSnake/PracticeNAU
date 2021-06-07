@@ -12,6 +12,12 @@ namespace My_TETRIS
         public int y;
         public char c;
 
+        public Point(Point p)
+        {
+            x = p.x;
+            y = p.y;
+            c = p.c;
+        }
         public Point(int a, int b, char sym)
         {
             x = a;
@@ -23,6 +29,7 @@ namespace My_TETRIS
         {
             Console.SetCursorPosition(x, y);
             Console.Write(c);
+            Console.SetCursorPosition(0, 0);
         }
 
         internal void Move(Direction dir)

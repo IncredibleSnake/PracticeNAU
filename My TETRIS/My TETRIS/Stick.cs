@@ -14,40 +14,35 @@ namespace My_TETRIS
             points[1] = new Point(x, y + 1, sym);
             points[2] = new Point(x, y + 2, sym);
             points[3] = new Point(x, y + 3, sym);
+            Draw();
         }
-        public override void Rotate()
+        public override void Rotate(Point[] pList)
         {
-            if(points[0].x == points[1].x)
+            if(pList[0].x == pList[1].x)
             {
-                RotateHorizontal();
+                RotateHorizontal(pList);
             }
             else
             {
-                RotateVertical();
+                RotateVertical(pList);
             }
         }
 
-        private void RotateVertical()
+        private void RotateVertical(Point[] pList)
         {
-            foreach (Point p in points)
+            for (int i = 0; i < pList.Length; i++)
             {
-                for (int i = 0; i < points.Length; i++)
-                {
-                    points[i].y = points[0].y + 1;
-                    points[i].x = points[0].x;
-                }
+                pList[i].x = pList[0].x;
+                pList[i].y = pList[0].y + i;
             }
         }
 
-        private void RotateHorizontal()
+        private void RotateHorizontal(Point[] pList)
         {
-            foreach(Point p in points)
+            for (int i = 0; i < pList.Length; i++)
             {
-                for(int i = 0; i< points.Length; i++)
-                {
-                    points[i].y = points[0].y;
-                    points[i].x = points[0].x + 1;
-                }
+                pList[i].y = pList[0].y;
+                pList[i].x = pList[0].x + i;
             }
         }
     }

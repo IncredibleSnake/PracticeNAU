@@ -8,66 +8,68 @@ namespace My_TETRIS
 {
     abstract class Figure
     {
-        protected Point[] points = new Point[LENGTH];
+        public Point[] Points = new Point[LENGTH];
         const int LENGTH = 4;
 
         public void Draw()
         {
-            foreach (Point p in points)
+            foreach (Point p in Points)
             {
                 p.Draw();
             }
         }
-        internal void TryMove(Direction dir)
+        internal Result TryMove(Direction dir)
         {
             Hide();
-            var clone = Clone();
-            Move(clone, dir);
-            if (VerifyPosition(clone))
+
+            Move(dir);
+
+            var result = VerifyPosition();
+            if (result != Result.SUCCESS)
             {
-                points = clone;
+                Move(Reverse(dir));
             }
 
             Draw();
+
+            return result;
         }
 
-        internal void TryRotate()
+        internal Result TryRotate()
         {
             Hide();
-            var clone = Clone();
-            Rotate(clone);
-            if (VerifyPosition(clone))
+            Rotate();
+
+            var result = VerifyPosition();
+            if (result != Result.SUCCESS)
             {
-                points = clone;
+                Rotate();
             }
 
             Draw();
+            return result;
         }
 
-        private bool VerifyPosition(Point[] pList)
+        private Result VerifyPosition()
         {
-            foreach(var p in pList)
+            foreach(var p in Points)
             {
-                if (p.x < 0 || p.y < 0 || p.x >= Field.HEIGHT || p.y >= Field.WIDTH)
-                {
-                    return false;
-                }
+                if (p.Y >= Field.Height)
+                    return Result.DOWN_BORDER_STRIKE;
+
+                if (p.X >= Field.Width-1 || p.X < 0 || p.Y < 0)
+                    return Result.BORDER_STRIKE;
+
+                if (Field.CheckStrike(p))
+                    return Result.HEAP_STRIKE;
             }
-            return true;
+            return Result.SUCCESS;
+
         }
 
-        private Point[] Clone()
+        public void Move(Direction dir)
         {
-            var newPoints = new Point[LENGTH];
-            for(int i = 0; i < LENGTH; i++)
-            {
-                newPoints[i] = new Point(points[i]);
-            }
-            return newPoints;
-        }
-        public void Move(Point[] pList, Direction dir)
-        {
-            foreach(var p in pList)
+            foreach(var p in Points)
             {
                 p.Move(dir);
             }
@@ -84,12 +86,31 @@ namespace My_TETRIS
 
         public void Hide()
         {
-            foreach(Point p in points)
+            foreach(Point p in Points)
             {
                 p.Hide();
             }
         }
-        public abstract void Rotate(Point[] pList);
+        public abstract void Rotate();
+        internal bool IsOnTop()
+        {
+            return Points[0].Y == 0;
+        }
 
+        private Direction Reverse(Direction dir)
+        {
+            switch (dir)
+            {
+                case Direction.LEFT:
+                    return Direction.RIGHT;
+                case Direction.RIGHT:
+                    return Direction.LEFT;
+                case Direction.DOWN:
+                    return Direction.UP;
+                case Direction.UP:
+                    return Direction.DOWN;
+            }
+            return Direction.DOWN;
+        }
     }
 }
